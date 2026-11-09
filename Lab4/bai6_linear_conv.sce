@@ -4,7 +4,7 @@
 clc; clear;
 
 try
-    cd(get_absolute_file_path("bai3_linear_conv.sce"));
+    cd(get_absolute_file_path("bai6_linear_conv.sce"));
 end
 if ~isdir("images") then mkdir("images"); end
 

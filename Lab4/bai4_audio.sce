@@ -4,7 +4,7 @@
 clc; clear;
 
 try
-    cd(get_absolute_file_path("bai1_audio.sce"));
+    cd(get_absolute_file_path("bai4_audio.sce"));
 end
 if ~isdir("images") then mkdir("images"); end
 

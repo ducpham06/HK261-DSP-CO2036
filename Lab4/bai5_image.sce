@@ -4,7 +4,7 @@
 clc; clear;
 
 try
-    cd(get_absolute_file_path("bai2_image.sce"));
+    cd(get_absolute_file_path("bai5_image.sce"));
 end
 if ~isdir("images") then mkdir("images"); end
 
