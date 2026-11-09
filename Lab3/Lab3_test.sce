@@ -1,8 +1,3 @@
-// ============================================================
-// DSP Lab 3 - Test cases for Exercises 1 - 6
-// Pham Minh Duc - 2414106
-// Run from the folder containing Lab3.sci
-// ============================================================
 exec("Lab3.sci", -1);
 
 // ==== Bai 1
