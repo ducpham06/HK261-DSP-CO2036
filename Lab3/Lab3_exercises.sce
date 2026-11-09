@@ -1,8 +1,3 @@
-// ============================================================
-// DSP Lab 3 - Additional exercises (Proakis 1.2 - 1.16, 2.26 - 2.35)
-// Pham Minh Duc - 2414106
-// Run from the folder containing Lab3.sci
-// ============================================================
 exec("Lab3.sci", -1);
 
 // ==== Bai 1.2
