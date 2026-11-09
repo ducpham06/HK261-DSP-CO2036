@@ -1,10 +1,3 @@
-// ============================================================
-// DSP Lab 3 - Discrete-time signal manipulation
-// Pham Minh Duc - 2414106
-// Convention: xorigin is the (1-based) index of n = 0 in xn,
-//             so sample xn(i) is located at n = i - xorigin.
-// ============================================================
-
 // Helper: stem plot with margins so edge samples and the zero line are visible
 function stemplot(n, x, s)
     ymin = min(0, min(x)); ymax = max(0, max(x));
